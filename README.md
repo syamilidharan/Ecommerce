@@ -1,2 +1,2 @@
 # Ecommerce
-It's a HTML template for Ecommerce website
+It's an HTML template for Ecommerce website
